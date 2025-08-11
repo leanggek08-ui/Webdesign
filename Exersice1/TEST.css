@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Mozilla+Headline:wght@200..700&display=swap');
+body {
+    background: linear-gradient(to bottom, black,white);
+   
+}
+h1{
+    color: blue;
+    text-align:center;
+    font-family: "Mozilla Headline", sans-serif;
+}
+h2{
+    color: rgb(209, 197, 24);
+    font-family: "Mozilla Headline", sans-serif;
+}
+img{
+    border: 3px dashed rgb(222, 212, 17);
+    margin-left: 350px;
+} 
+h1:hover, h2:hover {
+  color: crimson;
+  cursor: pointer 60s ease;
+}
+a {
+  text-decoration: none;
+}
+
