@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Mozilla+Headline:wght@200..700&family=Playwrite+AU+QLD:wght@100..400&display=swap');
+body{
+    background-image: url(https://t4.ftcdn.net/jpg/04/96/50/79/360_F_496507919_qEkorRQUx9MaYiDZr5iwhnZVmxO6eVCe.jpg);
+}
+h1{
+   font-family: "Mozilla Headline", sans-serif;
+   color: rgba(228, 150, 7, 0.797);
+   text-align: center;
+   font-size: larger;
+
+}
+h1:hover{
+   color: rgb(181, 136, 224);
+   cursor: pointer 60s ease;
+}
+p1{
+    color: aliceblue;
+    font-size: large;
+}
+h2,h3{
+    color: rgb(232, 182, 1);
+    font-size: larger;
+    
+}
+p2{
+    color: aliceblue;
+    font-size: large;
+}
+ol{
+    color: aliceblue;
+    font-size: large;
+}
+a{
+  color:rgb(150, 213, 25);
+  text-decoration: none;
+}
+a:hover{
+    color: rgb(213, 58, 97);
+    text-decoration: underline;
+}
+img{
+  border: 3px dashed rgb(214, 217, 56);  
+}
+p{
+    color: aliceblue;
+    font-size: large;
+}
