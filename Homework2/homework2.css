@@ -1,0 +1,51 @@
+ body{
+     background: linear-gradient(to right, rgb(0, 0, 0), rgb(230, 230, 223));
+     /* background-image: url(photo_2023-12-02_05-51-14.jpg);
+     background-size: cover;  make it cover the page */ 
+}
+
+h1{
+     text-align: center;
+}
+nav1 {
+ position: absolute; /* free move */
+      top: 100px;         /* distance from top */
+      left: 450px;        /* distance from left */
+      background: rgb(141, 150, 134);
+      padding: 10px;
+      border-radius: 8px; 
+}
+nav2{
+ position: absolute;
+ top:100px;
+ left:650px;
+ background:rgb(141, 150, 134);
+padding: 10px;
+border-radius: 8px;
+}
+a{
+     color: rgb(225, 255, 0);
+     text-decoration: none;
+}
+a:hover{
+     color: rgb(222, 61, 209);
+     text-decoration: underline;
+}
+
+nav3{
+     position: absolute;
+     top:100px;
+     left: 850px;
+      background:rgb(141, 150, 134);
+     padding: 10px;
+    border-radius: 8px;
+}
+img {
+     position: absolute;
+     top:20px;
+     left:40px;
+      width:100px;      /* set size */
+      height: 100px;     /* make width and height equal */
+      border-radius: 50%; /* makes circle */
+      object-fit: cover;  /* keep image ratio while filling circle */
+    }

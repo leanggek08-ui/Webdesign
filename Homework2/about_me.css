@@ -1,0 +1,20 @@
+body{
+    background-image:url(photo_2023-12-02_05-51-14.jpg);
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color:rgb(175, 175, 175);
+}
+a{
+    color:rgb(197, 202, 211);
+    text-decoration: none;
+}
+a:hover{
+    color: bisque;
+    text-decoration: underline;
+}
+ol li::marker {
+      color: rgb(255, 217, 0);          /* change number color */
+      font-weight: bold;   /* make number bold */
+    }

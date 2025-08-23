@@ -1,0 +1,17 @@
+body{
+    background-image: url(https://img.freepik.com/free-photo/high-angle-view-laptop-stationeries-blue-background_23-2147880456.jpg?semt=ais_hybrid&w=740);
+    background-size: cover;
+}
+h1{
+    text-align: center;
+}
+table {
+      margin-left: auto;   /* pushes table to center */
+      margin-right: auto;
+      border-collapse: collapse;
+       width: 30%; 
+    }
+th{
+    background-color: #d8bc2f;
+
+}
